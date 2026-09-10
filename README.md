@@ -4,6 +4,8 @@ GitHub Pages user site: https://zhanghaichao.github.io/
 
 AdMob authorized sellers file: https://zhanghaichao.github.io/app-ads.txt
 
+Website authorized sellers file: https://zhanghaichao.github.io/ads.txt
+
 Use the homepage URL as the developer website in the app's public Google Play store listing. Keep the existing privacy policy URL in the separate privacy policy field: https://zhanghaichao.github.io/where-did-i-put-it-privacy/
 
 The app-ads.txt publisher record was supplied by the owner in AdMob. Hosting this file does not add advertising SDKs to any app or change an app's privacy disclosures.
